@@ -1,0 +1,205 @@
+Country/region,Data Quality,HDI,Per Capita GDP,Region,Income Group,Population (millions),Cropland Footprint,Grazing Footprint,Forest Product Footprint,Carbon Footprint,Fish Footprint,Built up land,Total Ecological Footprint
+Afghanistan,6,0.463019,614.661,Middle East/Central Asia,LI,29.82,0.3,0.2,0.08,0.18,0,0.04,0.79
+Albania,6,0.729434,4534.37,Other Europe,UM,3.16,0.78,0.22,0.25,0.87,0.02,0.06,2.21
+Algeria,5,0.731827,5430.57,Africa,UM,38.48,0.6,0.16,0.17,1.14,0.01,0.03,2.12
+Angola,6,0.524199,4665.91,Africa,LM,20.82,0.33,0.15,0.12,0.2,0.09,0.04,0.93
+Antigua and Barbuda,2,0.781467,13205.1,Latin America,HI,0.09,,,,,,,5.38
+Argentina,6,0.830566,13540,Latin America,UM,41.09,0.78,0.79,0.29,1.08,0.1,0.1,3.14
+Armenia,3B,0.727811,3426.39,Middle East/Central Asia,LM,2.97,0.74,0.18,0.34,0.89,0.01,0.07,2.23
+Aruba,2,,,Latin America,HI,0.1,,,,,,,11.88
+Australia,5,0.93219,66604.2,Asia-Pacific,HI,23.05,2.68,0.63,0.89,4.85,0.11,0.14,9.31
+Austria,5,0.883921,51274.1,EU-27,HI,8.46,0.82,0.27,0.63,4.14,0.06,0.15,6.06
+Azerbaijan,6,0.745053,7106.04,Middle East/Central Asia,UM,9.31,0.66,0.22,0.11,1.25,0.01,0.06,2.31
+Bahamas,3L,0.782771,22647.3,Latin America,HI,0.37,0.97,1.05,0.19,4.46,0.14,0.04,6.84
+Bahrain,3L,0.818935,24299,Middle East/Central Asia,HI,1.32,0.52,0.45,0.16,6.19,0.07,0.1,7.49
+Bangladesh,6,0.562883,857.496,Asia-Pacific,LI,154.7,0.29,0,0.08,0.26,0.02,0.07,0.72
+Barbados,5,0.793328,15722.8,Latin America,HI,0.28,0.56,0.24,0.14,3.28,0.22,0.04,4.48
+Belarus,6,0.796129,6300.45,Other Europe,UM,9.4,1.32,0.12,0.91,2.57,0.08,0.09,5.09
+Belgium,6,0.888567,48053.3,EU-27,HI,11.06,1.15,0.48,0.99,4.43,0.12,0.27,7.44
+Benin,6,0.475034,746.834,Africa,LI,10.05,0.49,0.04,0.26,0.51,0.08,0.04,1.41
+Bermuda,3T,,70626.3,North America,HI,0.06,,,,,,,5.77
+Bhutan,3B,0.588663,2395,Asia-Pacific,LM,0.74,0.5,0.42,3.03,0.63,0.02,0.25,4.84
+Bolivia,5,0.653591,2253.09,Latin America,LM,10.5,0.37,1.69,0.17,0.67,0.01,0.06,2.96
+Bosnia and Herzegovina,5,0.725661,4708.85,Other Europe,UM,3.83,0.63,0.27,0.44,1.74,0.02,0.02,3.12
+Botswana,3B,0.69136,7743.5,Africa,UM,2,0.3,0.89,0.24,2.36,0.01,0.02,3.83
+Brazil,5,0.746488,13237.6,Latin America,UM,198.66,0.62,0.85,0.6,0.91,0.04,0.09,3.11
+British Virgin Islands,3T,,,Latin America,,0.03,,,,,,,2.86
+Brunei Darussalam,3L,0.852363,47097.4,Asia-Pacific,HI,0.41,0.31,0.13,0.26,3.24,0.09,0.03,4.06
+Bulgaria,5,0.778056,7615.28,EU-27,UM,7.28,0.6,0.13,0.35,2.08,0.03,0.13,3.32
+Burkina Faso,5,0.392513,671.065,Africa,LI,16.46,0.47,0.17,0.36,0.12,0.03,0.05,1.21
+Burundi,4,0.394528,276.688,Africa,LI,9.85,0.21,0.07,0.45,0.04,0,0.03,0.8
+Cabo Verde,3T,0.639132,3801.45,Africa,LM,0.49,,,,,,,2.52
+Cambodia,3T,0.545975,877.635,Asia-Pacific,LI,14.86,,,,,,,1.21
+Cameroon,6,0.500944,1271.21,Africa,LM,21.7,0.54,0.1,0.21,0.19,0.08,0.05,1.17
+Canada,5,0.910431,52145.4,North America,HI,34.84,1.46,0.33,1.2,5,0.12,0.07,8.17
+Cayman Islands,3L,,,Latin America,HI,0.06,0.36,0.45,1.23,3.56,0.05,0,5.65
+Central African Republic,6,0.372625,495.035,Africa,LI,4.53,0.3,0.55,0.26,0.08,0.02,0.04,1.24
+Chad,6,0.385718,1161.22,Africa,LI,12.45,0.36,0.75,0.27,0.01,0.01,0.05,1.46
+Chile,6,0.826742,14525.8,Latin America,UM,17.46,0.61,0.33,0.99,2.04,0.25,0.15,4.36
+China,6,0.718034,5560.94,Asia-Pacific,UM,1408.04,0.55,0.13,0.19,2.32,0.08,0.12,3.38
+Colombia,6,0.715045,7305.22,Latin America,UM,47.7,0.35,0.58,0.16,0.67,0.03,0.09,1.87
+Comoros,3B,0.498649,860.243,Africa,LI,0.72,0.33,0.03,0.18,0.25,0.25,0,1.03
+Congo,5,0.574933,1943.691,Africa,LM,4.34,0.22,0.09,0.38,0.47,0.1,0.03,1.29
+"Congo, Democratic Republic of",6,0.423436,338.627,Africa,LI,65.7,0.15,0.01,0.51,0.07,0.01,0.05,0.82
+Costa Rica,5,0.760762,8979.96,Latin America,UM,4.8,0.4,0.21,0.68,1.37,0.08,0.1,2.84
+Côte d'Ivoire,6,,1016.829,Africa,LM,19.84,0.51,0.06,0.22,0.26,0.14,0.08,1.27
+Croatia,6,0.816563,14522.8,Other Europe,HI,4.31,0.74,0.13,0.72,2.21,0.06,0.06,3.92
+Cuba,6,0.771743,5175.94,Latin America,UM,11.27,0.48,0.11,0.09,1.23,0.02,0.03,1.95
+Cyprus,5,0.851546,31454.7,EU-27,HI,1.13,0.77,0.08,0.23,2.94,0.14,0.05,4.21
+Czech Republic,5,0.866594,21676.3,EU-27,HI,10.66,0.62,0.24,0.74,3.42,0.03,0.13,5.19
+Denmark,5,0.921084,61413.6,EU-27,HI,5.6,1.18,0.47,0.77,2.6,0.24,0.25,5.51
+Djibouti,2,0.464584,1433.17,Africa,LM,0.86,,,,,,,2.19
+Dominica,5,0.722717,7088.01,Latin America,UM,0.07,0.64,0.15,0.14,1.47,0.17,0,2.57
+Dominican Republic,6,0.707893,6085.89,Latin America,UM,10.28,0.35,0.12,0.12,0.86,0.04,0.05,1.53
+Ecuador,5,0.726839,5192.88,Latin America,UM,15.49,0.3,0.3,0.24,1.08,0.18,0.06,2.17
+Egypt,5,0.687703,2930.33,Africa,LM,80.72,0.68,0.08,0.17,1.02,0.04,0.15,2.15
+El Salvador,5,0.662375,3696.33,Latin America,LM,6.3,0.44,0.21,0.4,0.84,0.14,0.05,2.07
+Equatorial Guinea,3L,0.584089,24064,Africa,HI,0.74,0.27,0.02,0.26,3.17,0.22,0.02,3.97
+Eritrea,5,0.389693,439.728,Africa,LI,6.13,0.1,0.18,0.06,0.03,0.01,0.02,0.42
+Estonia,3T,0.854625,17304.4,EU-27,HI,1.29,,,,,,,6.86
+Ethiopia,6,0.429436,379.381,Africa,LI,91.73,0.31,0.12,0.46,0.07,0,0.06,1.02
+Fiji,5,0.721959,4201.37,Asia-Pacific,UM,0.88,0.55,0.2,0.42,1.06,0.62,0.04,2.9
+Finland,3T,0.881737,50960.2,EU-27,HI,5.41,,,,,,,5.87
+France,6,0.885878,45430.3,EU-27,HI,63.98,1.23,0.27,0.53,2.71,0.19,0.21,5.14
+French Guiana,3L,,,Latin America,,0.24,0.07,0.06,0.46,1.58,0.17,0,2.34
+French Polynesia,5,,,Asia-Pacific,HI,0.27,0.75,0.65,0.12,2.39,0.82,0,4.73
+Gabon,3L,0.673211,11989,Africa,UM,1.63,0.53,0.13,0.79,0.43,0.11,0.03,2.02
+Gambia,5,0.440201,505.761,Africa,LI,1.79,0.46,0.05,0.2,0.21,0.08,0.03,1.03
+Georgia,3B,0.747002,3710.7,Middle East/Central Asia,LM,4.36,0.39,0.2,0.1,0.83,0.02,0.04,1.58
+Germany,5,0.914763,46822.4,EU-27,HI,82.8,1.1,0.14,0.48,3.28,0.05,0.24,5.3
+Ghana,6,0.571864,1627.9,Africa,LM,25.37,0.56,0.07,0.65,0.43,0.19,0.07,1.97
+Greece,5,0.864588,25987.4,EU-27,HI,11.12,1.07,0.35,0.24,2.58,0.08,0.06,4.38
+Grenada,3T,0.739579,7410.48,Latin America,UM,0.1,,,,,,,2.98
+Guadeloupe,5,,,Latin America,,0.46,0.11,0.03,0.16,2.61,0.31,0,3.23
+Guatemala,5,0.623908,3233.8,Latin America,LM,15.08,0.37,0.16,0.58,0.7,0.01,0.07,1.89
+Guinea,5,0.409345,459.086,Africa,LI,11.45,0.39,0.32,0.45,0.16,0.05,0.04,1.41
+Guinea-Bissau,6,0.416758,681.254,Africa,LI,1.66,0.35,0.36,0.67,0.09,0.01,0.06,1.53
+Guyana,5,0.629327,3269.46,Latin America,LM,0.8,0.7,0.22,0.77,1.25,0.06,0.06,3.07
+Haiti,6,0.478859,749.129,Latin America,LI,10.17,0.27,0.04,0.1,0.15,0.01,0.03,0.61
+Honduras,3B,0.607094,2269.51,Latin America,LM,7.94,0.28,0.25,0.5,0.6,0,0.06,1.68
+Hungary,5,0.823268,13964.2,EU-27,HI,9.98,0.42,0.08,0.36,1.9,0.02,0.13,2.92
+India,6,0.599959,1513.85,Asia-Pacific,LM,1236.69,0.34,0.01,0.14,0.61,0.02,0.05,1.16
+Indonesia,6,0.678033,3688.53,Asia-Pacific,LM,246.86,0.44,0.03,0.2,0.64,0.21,0.06,1.58
+"Iran, Islamic Republic of",3B,0.764364,7511.1,Middle East/Central Asia,UM,76.42,0.69,0.09,0.07,1.72,0.12,0.09,2.79
+Iraq,3B,0.653708,5848.54,Middle East/Central Asia,LM,32.78,0.43,0.03,0.01,1.36,0.01,0.04,1.88
+Ireland,5,0.909851,52853.6,EU-27,HI,4.58,1.08,0.49,0.46,3.22,0.18,0.13,5.57
+Israel,6,0.89027,33718.9,Middle East/Central Asia,HI,7.64,0.89,0.22,0.36,4.59,0.07,0.08,6.22
+Italy,6,0.871708,38412,EU-27,HI,60.92,0.91,0.32,0.42,2.77,0.12,0.06,4.61
+Jamaica,3B,0.722962,5226.3,Latin America,UM,2.77,0.41,0.09,0.18,1.09,0.07,0.05,1.89
+Japan,6,0.888041,46201.6,Asia-Pacific,HI,127.25,0.53,0.1,0.27,3.69,0.33,0.1,5.02
+Jordan,5,0.746172,4615.17,Middle East/Central Asia,UM,7.01,0.54,0.18,0.17,1.09,0.03,0.07,2.1
+Kazakhstan,3L,0.778122,11278,Middle East/Central Asia,UM,16.27,0.58,0.19,0.12,4.59,0.03,0.03,5.55
+Kenya,5,0.539314,1062.11,Africa,LI,43.18,0.25,0.23,0.27,0.2,0.05,0.04,1.03
+"Korea, Democratic People's Republic of",6,,,Asia-Pacific,LI,24.76,0.28,0,0.14,0.68,0.02,0.06,1.17
+"Korea, Republic of",5,0.892832,24155.8,Asia-Pacific,HI,49,0.71,0.12,0.21,4.17,0.41,0.06,5.69
+Kuwait,3L,0.81527,41830.5,Middle East/Central Asia,HI,3.25,0.55,0.24,0.21,6.89,0.09,0.15,8.13
+Kyrgyzstan,3B,0.645217,1116.37,Middle East/Central Asia,LI,5.47,0.59,0.18,0.09,0.95,0.01,0.08,1.91
+Lao People's Democratic Republic,6,0.561787,1236.24,Asia-Pacific,LM,6.65,0.57,0.08,0.36,0.09,0.01,0.11,1.22
+Latvia,5,0.812857,13732,EU-27,HI,2.06,2.28,0.09,2.02,1.66,0.11,0.13,6.29
+Lebanon,6,0.760623,9143.86,Middle East/Central Asia,UM,4.65,0.67,0.3,0.25,2.52,0.05,0.06,3.84
+Lesotho,3B,0.484408,1338.42,Africa,LM,2.05,0.22,0.49,0.42,0.51,0,0.01,1.66
+Liberia,3B,0.418944,397.384,Africa,LI,4.19,0.23,0.03,0.75,0.14,0.03,0.03,1.21
+Libyan Arab Jamahiriya,3B,0.744938,5859.43,Africa,UM,6.16,0.79,0.32,0.14,2.33,0.1,0.02,3.69
+Lithuania,5,0.832975,14373.7,EU-27,UM,3.03,1.89,0.21,1.28,2.15,0.16,0.15,5.83
+Luxembourg,5,0.888447,114665,EU-27,HI,0.52,1.1,0.76,1.03,12.65,0.13,0.14,15.82
+Macedonia TFYR,6,0.743004,5174.89,Other Europe,UM,2.11,0.62,0.21,0.31,2.06,0.03,0.02,3.26
+Madagascar,6,0.507135,456.327,Africa,LI,22.29,0.27,0.34,0.24,0.07,0.02,0.06,0.99
+Malawi,5,0.432829,493.843,Africa,LI,15.91,0.43,0.05,0.2,0.07,0.01,0.05,0.81
+Malaysia,3B,0.77412,10252.6,Asia-Pacific,UM,29.24,0.67,0.12,0.38,2.1,0.36,0.07,3.71
+Mali,6,0.414384,741.224,Africa,LI,14.85,0.52,0.66,0.17,0.1,0.03,0.06,1.53
+Martinique,3B,,,Latin America,,0.4,0.13,0.02,0.12,1.73,0.04,0.04,2.08
+Mauritania,3B,0.497716,1524.39,Africa,LM,3.8,0.39,1.2,0.21,0.55,0.15,0.04,2.54
+Mauritius,5,0.772366,8811.15,Africa,UM,1.24,0.52,0.22,0.18,1.99,0.55,0,3.46
+Mexico,5,0.754167,10123.9,Latin America,UM,120.85,0.55,0.24,0.25,1.74,0.06,0.05,2.89
+Moldova,5,0.683157,1971.03,Other Europe,LM,3.51,0.43,0.08,0.15,1.03,0.06,0.03,1.78
+Mongolia,3B,0.713926,3736.07,Asia-Pacific,LM,2.8,0.29,3.47,0.17,2.09,0,0.05,6.08
+Montenegro,5,0.798032,7251.6,Other Europe,UM,0.62,0.64,0.33,0.62,2.13,0.05,0.01,3.78
+Montserrat,2,,,Latin America,,0,,,,,,,7.78
+Morocco,5,0.623427,3149.43,Africa,LM,32.52,0.6,0.17,0.14,0.67,0.06,0.03,1.68
+Mozambique,5,0.407982,538.822,Africa,LI,25.2,0.31,0.03,0.29,0.17,0.03,0.05,0.87
+Myanmar,6,0.527523,1117.58,Asia-Pacific,LI,52.8,0.8,0.01,0.32,0.09,0.1,0.11,1.43
+Namibia,3L,0.619775,5880.8,Africa,UM,2.26,0.33,0.23,0.17,1.02,0.72,0.02,2.48
+Nauru,2,,,Asia-Pacific,,0.01,,,,,,,2.94
+Nepal,6,0.539963,700.069,Asia-Pacific,LI,27.47,0.43,0.07,0.21,0.16,0,0.11,0.98
+Netherlands,6,0.920454,53589.9,EU-27,HI,16.71,0.76,0.58,0.38,3.23,0.16,0.17,5.28
+New Caledonia,3L,,,Asia-Pacific,HI,0.25,0.68,0.62,0.18,1.78,0.32,0,3.58
+New Zealand,3B,0.909479,37488.3,Asia-Pacific,HI,4.46,0.63,0.23,1.08,2.84,0.7,0.13,5.6
+Nicaragua,5,0.625457,1626.85,Latin America,LM,5.99,0.34,0.12,0.42,0.45,0.03,0.05,1.39
+Niger,5,0.342293,410.914,Africa,LI,17.16,0.67,0.48,0.26,0.1,0.02,0.03,1.56
+Nigeria,5,0.504699,2612.12,Africa,LM,168.83,0.53,0.1,0.19,0.21,0.08,0.05,1.16
+Norway,4,0.942293,100172,Other Europe,HI,4.99,,,,,,,4.98
+Oman,3B,0.793048,22622.8,Middle East/Central Asia,HI,3.31,0.57,0.4,0.15,5.8,0.4,0.19,7.52
+Pakistan,6,0.532065,1218.6,Asia-Pacific,LM,179.16,0.27,0.01,0.08,0.38,0.02,0.03,0.79
+Panama,3B,0.77245,8410.77,Latin America,UM,3.8,0.36,0.4,0.19,1.44,0.37,0.02,2.79
+Papua New Guinea,3B,0.500658,1871.21,Asia-Pacific,LM,7.17,0.3,0.05,0.36,0.35,0.73,0.13,1.91
+Paraguay,3B,0.669333,3557.31,Latin America,LM,6.69,1.11,1.1,0.83,0.97,0.01,0.14,4.16
+Peru,6,0.728052,5684.73,Latin America,UM,29.99,0.5,0.51,0.19,0.67,0.33,0.07,2.28
+Philippines,5,0.657463,2379.44,Asia-Pacific,LM,96.71,0.36,0.03,0.09,0.34,0.23,0.05,1.1
+Poland,6,0.837545,13769.5,EU-27,HI,38.21,0.84,0.04,0.78,2.64,0.05,0.09,4.44
+Portugal,5,0.826513,23217.3,EU-27,HI,10.6,1.03,0.25,0.09,2.15,0.31,0.05,3.88
+Qatar,3L,0.847817,99431.5,Middle East/Central Asia,HI,2.05,0.57,0.27,0.15,9.57,0.19,0.06,10.8
+Réunion,5,,,Africa,,0.86,0.14,0.01,0.15,3.27,0.09,0,3.65
+Romania,5,0.787848,9213.94,EU-27,UM,21.76,0.72,0.05,0.33,1.46,0.03,0.12,2.71
+Russian Federation,6,0.794929,13320.2,Other Europe,UM,143.17,0.77,0.15,0.67,3.87,0.19,0.03,5.69
+Rwanda,5,0.47556,628.084,Africa,LI,11.46,0.43,0.05,0.25,0.07,0.01,0.05,0.87
+Saint Kitts and Nevis,3L,0.742543,12952.5,Latin America,UM,0.05,0.51,0.18,0.09,3.34,0.81,0,4.94
+Saint Lucia,3B,0.729599,7737.2,Latin America,UM,0.18,0.38,0.1,0.17,1.56,0.23,0,2.45
+Saint Vincent and Grenadines,2,0.715145,6171.48,Latin America,UM,0.11,,,,,,,3.11
+Samoa,3B,0.700328,4067.15,Asia-Pacific,LM,0.19,0.97,0.16,0.27,0.96,0.42,0,2.77
+Sao Tome and Principe,3B,0.552167,1384.53,Africa,LM,0.19,0.36,0.02,0.27,0.37,0.47,0,1.49
+Saudi Arabia,3L,0.826167,23593.8,Middle East/Central Asia,HI,28.29,0.74,0.27,0.27,4.21,0.08,0.04,5.61
+Senegal,5,0.460561,1079.27,Africa,LM,13.73,0.34,0.21,0.21,0.3,0.12,0.02,1.21
+Serbia,5,0.761645,6426.18,Other Europe,UM,9.55,0.49,0.02,0.46,1.66,0.02,0.04,2.7
+Sierra Leone,6,0.39686,499.891,Africa,LI,5.98,0.47,0.11,0.38,0.07,0.15,0.05,1.24
+Singapore,5,0.905451,53122.4,Asia-Pacific,HI,5.3,0.67,0.24,0.91,5.91,0.22,0.03,7.97
+Slovakia,5,0.835893,18103.1,EU-27,HI,5.45,0.31,0.08,0.72,2.82,0.03,0.09,4.06
+Slovenia,6,0.877625,25040.5,EU-27,HI,2.07,0.64,0.17,0.65,4.27,0.05,0.04,5.81
+Solomon Islands,3L,0.504029,1647.86,Asia-Pacific,LI,0.55,0.47,0.03,0.09,0,0.46,0.23,1.29
+Somalia,5,,,Africa,LI,10.2,0.16,0.43,0.52,0.07,0.01,0.06,1.24
+South Africa,5,0.658977,8089.87,Africa,UM,52.39,0.44,0.11,0.29,2.34,0.08,0.04,3.31
+Spain,6,0.873709,32008.7,EU-27,HI,46.76,0.78,0.15,0.17,2.22,0.32,0.04,3.67
+Sri Lanka,6,0.748641,2880.03,Asia-Pacific,LM,21.1,0.31,0.01,0.16,0.52,0.27,0.05,1.32
+Suriname,3L,0.710913,8190.7,Latin America,UM,0.54,0.43,0.06,0.52,3.01,0.14,0.09,4.25
+Swaziland,3L,0.528936,4657.48,Africa,LM,1.23,0.35,0.41,0.52,0.67,0.01,0.06,2.01
+Sweden,5,0.903746,59381.9,EU-27,HI,9.51,1.47,0.27,1.3,3.88,0.09,0.24,7.25
+Switzerland,6,0.92696,88506.2,Other Europe,HI,8,0.75,0.22,0.38,4.26,0.07,0.12,5.79
+Syrian Arab Republic,5,0.623098,,Middle East/Central Asia,LM,21.89,0.52,0.09,0.04,0.81,0.01,0.05,1.51
+Tajikistan,5,0.617036,836.173,Middle East/Central Asia,LI,8.01,0.46,0.14,0.1,0.13,0,0.08,0.91
+"Tanzania, United Republic of",6,0.510373,765.333,Africa,LI,47.78,0.44,0.34,0.23,0.17,0.09,0.06,1.32
+Thailand,6,0.723498,5479.29,Asia-Pacific,UM,66.78,0.67,0.02,0.24,1.54,0.13,0.07,2.66
+Timor-Leste,3B,0.603755,5167.86,Asia-Pacific,LM,1.11,0.25,0.07,0.04,0.06,0.02,0.04,0.48
+Togo,6,0.469767,580.855,Africa,LI,6.64,0.34,0.1,0.27,0.31,0.08,0.02,1.13
+Tonga,3B,0.716523,4330.9,Asia-Pacific,LM,0.1,1.19,0.32,0.14,0.88,0.18,0,2.7
+Trinidad and Tobago,3B,0.768916,18310.8,Latin America,HI,1.34,0.46,0.19,0.27,6.89,0.11,0,7.92
+Tunisia,5,0.71864,4305.07,Africa,UM,10.88,0.76,0.09,0.28,1.11,0.06,0.04,2.34
+Turkey,5,0.75628,10437.7,Middle East/Central Asia,UM,74,0.87,0.12,0.34,1.92,0.04,0.04,3.33
+Turkmenistan,6,0.677043,5290.14,Middle East/Central Asia,LM,5.17,0.73,0.44,0.08,4.13,0.01,0.09,5.47
+Uganda,6,0.476009,601.354,Africa,LI,36.35,0.34,0.15,0.54,0.08,0.11,0.04,1.24
+Ukraine,5,0.743114,3589.63,Other Europe,LM,45.53,0.62,0.01,0.16,1.92,0.06,0.07,2.84
+United Kingdom,6,0.90139,40980.5,EU-27,HI,63.03,0.82,0.28,0.45,3.14,0.08,0.18,4.94
+United States of America,6,0.911534,49725,North America,HI,317.5,1.13,0.3,0.67,5.9,0.12,0.09,8.22
+Uruguay,3B,0.787632,14238.1,Latin America,UM,3.4,0.19,0.98,0.55,0.98,0.05,0.17,2.91
+Uzbekistan,6,0.66754,1560.85,Middle East/Central Asia,LM,28.54,0.62,0.13,0.08,1.41,0,0.08,2.32
+"Venezuela, Bolivarian Republic of",5,0.763846,10237.8,Latin America,UM,29.96,0.45,0.74,0.12,2.13,0.09,0.04,3.57
+Viet Nam,6,0.660088,1532.31,Asia-Pacific,LM,90.8,0.5,0.01,0.19,0.79,0.05,0.1,1.65
+Wallis and Futuna Islands,3T,,,Asia-Pacific,,0.01,,,,,,,2.07
+Yemen,5,0.49588,1302.3,Middle East/Central Asia,LM,23.85,0.34,0.14,0.04,0.42,0.04,0.04,1.03
+Zambia,6,0.575617,1740.64,Africa,LM,14.08,0.19,0.18,0.33,0.24,0.01,0.04,0.99
+Zimbabwe,6,0.490567,865.913,Africa,LI,13.72,0.2,0.32,0.29,0.53,0.01,0.02,1.37
+,,,,,,,,,,,,,
+NOTES:,,,,,,,,,,,,,
+"World Footprint does not exactly match the sum of all countries for the following reasons: 
+1. The built up land footprint uses different sources for some specific countries 2. The total does not include all countries. ",,,,,,,,,,,,,
+Country grouping results are for included countries only,,,,,,,,,,,,,
+"Unless otherwise noted, all data from Global Footprint Network, National Footprint Accounts 2016 Edition. For more information visit: www.footprintnetwork.org/atlas",,,,,,,,,,,,,
+"HDI data are 2012 values from UNDP Human Development Reports, 2015",,,,,,,,,,,,,
+"GDP data are 2012 values from the International Monetary Fund World Economic Outlook Database, Published 2015",,,,,,,,,,,,,
+Regional totals are based on groupings defined by UNStats. ,,,,,,,,,,,,,
+Income groups reflect current World Bank classification.,,,,,,,,,,,,,
+"Population data are from the UN FAO, with the exception of those of the United Arab Emirates, where numbers were obtained directly from the UAE government. Note that this change also affects the Asia and World total.",,,,,,,,,,,,,
+0.0 = less than 0.05,,,,,,,,,,,,,
+"For results in acres, multiply hectare numbers by 2.471",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Number of Earths Required: This represents the number of planet Earths that would be required if everyone in the world lived the average lifestyle of a resident in this country.,,,,,,,,,,,,,
+Number of Countries Required: This represents how many times the country's biocapacity is needed in order to provide for the country's consumption Footprint.,,,,,,,,,,,,,
+"Note that these numbers assume people use biocapacity fully. However, wild species also require biologically productive space. When subtracting a portion of biocapacity for wild species, the ratios get larger.",,,,,,,,,,,,,
